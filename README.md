@@ -107,6 +107,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ariyan :wrench:](https://github.com/B4NDT0)
 - [Reyhaneh Z 😄:](https://github.com/reyhaneh-hub)
 - [Mahya Mohammadi Golchi](https://github.com/mahyamg)
+- [Ali Baghdadi](https://github.com/AliBaghdadii)
 - [Mohammad Yeganeh](https://github.com/usermp)
 - [MOHAMMDADHOSEIN REZANEZHAD ÷)](https://github.com/mhrezoo)
 - [MohammadReza Chv](https://github.com/MohammadrezaChv)
